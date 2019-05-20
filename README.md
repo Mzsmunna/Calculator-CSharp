@@ -3,5 +3,4 @@ Developed this calculator back in 2017 using C#. It's bit advanced calculator wi
 
 # Demo
 <img src="Calculator/demo/calculator-1.png" title="calculator1"/>
-
 <img src="Calculator/demo/calculator-2.png" title="calculator2"/>
